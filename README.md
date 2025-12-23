@@ -1,6 +1,9 @@
 # project-zomboid-unstable-dedicated-server-docker
 Tutorial de como crear un servidor dedicado con docker para el Project Zomboid version Unstable con login de steam. Esta preconfigurado para usar la version unestable que salio hoy
 
+# Actualizado a la version 42.13.1
+`Si ya lo estabas ejecutando modificar el .env`
+
 # Comandos para ejecutar en un VPS
 
 Clona el repositorio
